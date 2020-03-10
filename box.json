@@ -1,31 +1,31 @@
 {
-	"id": "com.demo.gauge",
+	"id": "com.GitHub.custom-widgets",
 	"version": "1.0.0",
 	"name": "Demo Gauge",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
 	"icon": "https://github.com/ThensiB/custom-widgets/blob/master/icon.png",
-	"vendor": "Demo",
+	"vendor": "GitHub",
 	"eula": "EULA",
 	"license": "1.0",
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-demo-gauge",
+			"tag": "com-GitHub-custom-widgets",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
-			"tag": "com-demo-gauge-sps",
+			"tag": "com-GitHub-custom-widgets-sps",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
-			"tag": "com-demo-box-bps",
+			"tag": "com-GitHub-custom-widgets-bps",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
@@ -35,7 +35,7 @@
 		"value": {
 			"type": "number",
 			"description": "Gauge value",
-			"default": "0"
+			"default": 0
 		},
 		"info": {
 			"type": "string",
@@ -90,5 +90,3 @@
 		}
 	}
 }
-
- 

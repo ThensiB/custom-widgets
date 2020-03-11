@@ -14,14 +14,14 @@
 			"tag": "com-GitHub-box",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box.js",
 			"integrity": "sha512-RlYlv9hHlXD6/tw0DLpBaQbEdWHbqE6xnZEPJGWzAb8cCUvZG1WSSflCm7TXK0qo2fYspQND5r5x8lMu1Sy1Ng==",
-			"ignoreIntegrity": true
+			"ignoreIntegrity": false
 		},
 		{
 			"kind": "styling",
 			"tag": "com-GitHub-box-sps",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box_sps.js",
 			"integrity": "sha512-SWz6G1mCs7ImHTjoeKGyx3JkD4yyTu4q2okknVOKdzxoIqclPvskh7mh3jrQNiBjFtbgyKsOCPQ3mJvqkkpcNA==",
-			"ignoreIntegrity": true
+			"ignoreIntegrity": false
 			
 		},
 		{
@@ -29,7 +29,7 @@
 			"tag": "com-GitHub-box-bps",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box_bps.js",
 			"integrity": "sha512-fooeu+oG/t80eXqRKKUq5iJAKcKs3KPuRvd9IsbrXU5SthNlWFzl3w94HxUkQkvHFwj95nGPpZwmFsG0A5t+BA==",
-			"ignoreIntegrity": true
+			"ignoreIntegrity": false
 			
 			
 		}

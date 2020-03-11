@@ -13,14 +13,14 @@
 			"kind": "main",
 			"tag": "com-GitHub-box",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box.js",
-			"integrity": "sha256-181d9660bb6cd6c31c65ebe604dce90e53ee66698b4514ba0e5849b9599837f0",
+			"integrity": "sha1-2d01a81a4aa014c7863d0deb86725e547a588002",
 			"ignoreIntegrity": false
 		},
 		{
 			"kind": "styling",
 			"tag": "com-GitHub-box-sps",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box_sps.js",
-			"integrity": "sha256-8999620c54733c03ec7d1b8ac6ac7de956718682959d83327f50b240a66a9bab",
+			"integrity": "sha1-3096a0f05254abb55781099641e43600d967d643",
 			"ignoreIntegrity": false
 			
 		},
@@ -28,7 +28,7 @@
 			"kind": "builder",
 			"tag": "com-GitHub-box-bps",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box_bps.js",
-			"integrity": "sha256-dd4f2fb0c9ac8e3fa9c46f97a36f8819a69c88ac9ddf13a6e79906e920c0f1b7",
+			"integrity": "sha1-4405fcc0efbb004dec4a88e3d22d824b64bd0b8c",
 			"ignoreIntegrity": false
 			
 			
@@ -95,4 +95,5 @@
 }
 
 
+ 
  

@@ -13,23 +13,23 @@
 			"kind": "main",
 			"tag": "com-GitHub-box",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box.js",
-			"integrity": "sha 384-61bb34c30e94b8464caa79b433b6c4ed57d20dd55e8ac3e82089ec1fcde1590d12f35d7a2a194b0010abaf9b8e763c25",
-			"ignoreIntegrity": true
+			"integrity": "sha256-181d9660bb6cd6c31c65ebe604dce90e53ee66698b4514ba0e5849b9599837f0",
+			"ignoreIntegrity": false
 		},
 		{
 			"kind": "styling",
 			"tag": "com-GitHub-box-sps",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box_sps.js",
-			"integrity": "sha 384-a4baac457605ad5045c14c3c3ce6f478f8b1925968ff6d960e7cb715e1250c3c5241da359b0d83d214b76cfc6f736614",
-			"ignoreIntegrity": true
+			"integrity": "sha256-8999620c54733c03ec7d1b8ac6ac7de956718682959d83327f50b240a66a9bab",
+			"ignoreIntegrity": false
 			
 		},
 		{
 			"kind": "builder",
 			"tag": "com-GitHub-box-bps",
 			"url": "https://github.com/ThensiB/custom-widgets/blob/master/box_bps.js",
-			"integrity": "sha 384-381d60015e8bdac5acc350db78bd6db0e48a3f8e249f3212de0d60d2ffb743051c86fabb070a99eb919c3f8c3f42bff2",
-			"ignoreIntegrity": true
+			"integrity": "sha256-dd4f2fb0c9ac8e3fa9c46f97a36f8819a69c88ac9ddf13a6e79906e920c0f1b7",
+			"ignoreIntegrity": false
 			
 			
 		}
